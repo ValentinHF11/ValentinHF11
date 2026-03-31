@@ -1,4 +1,4 @@
-<h1 align="center"><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Valentin</h1>
+<h1 align="center"><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> Hi, I'm Valentin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!--
 **ValentinHF11/ValentinHF11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
