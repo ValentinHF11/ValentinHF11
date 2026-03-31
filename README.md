@@ -6,10 +6,10 @@
 <h3> 
 <img align="right" width = 250px height = 200px alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
 
-I'm a Mechatronics and Embedded Systems student who is passionate about Embedded Systems, CNC Machines, and Automotive Industry.
+I'm a Computer Engineering student, and I'm passionate about mobile development, mobile software and technology, and artificial intelligence.
 
-- 🎓 &nbsp; I’m currently a senior student at Tanta University's Mechatronics Department.
-- 🌱 &nbsp; Learning more about Microcontrollers, Embedded Software, Embedded Linux, CNC Machines&Programming, and AUTOSAR.
+- 🎓 &nbsp; I'm about to graduate from university with a degree in Computer Engineering.
+- 🌱 &nbsp; I'm learning mobile development, mobile software, artificial intelligence, web development, and programming.
   <!-- Connect with me -->
   <!--h2 without bottom border-->
   <div id="user-content-toc">
@@ -18,9 +18,9 @@ I'm a Mechatronics and Embedded Systems student who is passionate about Embedded
     </ul>
   <!--icons and links-->
   <p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-magdi-4b209b218/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="mohamed.m.alsehli@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50"  /></a>
-  <a href="discordapp.com/users/muhammed_mgdi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="juan.hernandez7738@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50"  /></a>
+  <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   </p>
   </div>
 
@@ -44,12 +44,13 @@ I'm a Mechatronics and Embedded Systems student who is passionate about Embedded
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--
 <!--- stats & Trophy (start) -->
+<h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">GitHub Stast</h1>
 <p align="left">
   <!--- stats (start) -->
 <table align="left">
 <tr border="none">
 <td width="50%" align="center">
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=ValentinHF11&theme=dark&show_icons=true&count_private=true" />
+  <!-- <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=ValentinHF11&theme=dark&show_icons=true&count_private=true" /> -->
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ValentinHF11" src="https://github-readme-streak-stats.herokuapp.com/?user=ValentinHF11&theme=dark&hide_border=false" /> 
 </td>
@@ -66,11 +67,11 @@ I'm a Mechatronics and Embedded Systems student who is passionate about Embedded
 
 <!--- trophy (start) -->
 
-<div align=left>
+<!-- <div align=left>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ValentinHF11&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
-</div>
+</div> -->
 
 <!--- trophy (start) -->
 </p>        
